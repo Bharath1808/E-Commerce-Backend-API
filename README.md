@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NodeJS E-commerce API Development
 
 [Level Up with your skills. Enrol at $9.9 ](https://www.udemy.com/course/nodejs-ecommerce-api-dev-build-with-mongodb-mongoose/?couponCode=NEW-COURSE)
@@ -34,3 +35,6 @@ This course is suitable for:
 # Support
 
 Our experienced instructors will be available to provide guidance and support throughout the course. We encourage active participation in class discussions, asking questions and sharing knowledge with fellow students. This course is designed to provide a solid foundation for building APIs and is suitable for anyone who wants to learn more about back-end web development.
+=======
+# E-Commerce-Backend-API
+>>>>>>> 353373e672f01e360ceb5c786aa01fabde76eaa8
